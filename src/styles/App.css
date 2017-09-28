@@ -1,0 +1,64 @@
+nav {
+  font-family: inherit;
+  display: flex;
+  justify-content: center;
+  font-size: 25px
+}
+
+.navLink {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.aboutDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.aboutBio {
+  font-family: fantasy;
+}
+
+.homeDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.portfolioDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.contactDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.refDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.headShotDiv{
+  margin-top: 2em;;
+}
+
+.headShot {
+  border: 5px solid black;
+  border-radius: 50%;
+}
