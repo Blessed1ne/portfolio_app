@@ -18,6 +18,26 @@ nav {
   margin-top: 2em;
 }
 
+nav a.active {
+  background-color: #4286f4;
+  border-radius: 5px;
+  border: 1px solid black;
+  color: white;
+  text-decoration: none;
+  padding: .3em;
+}
+
+nav a:hover {
+  background-color: #4286f4;
+  color: white;
+  text-decoration: none;
+  border: 1px solid black;
+  padding: .3em;
+
+}
+
+
+
 .aboutBio {
   font-family: fantasy;
 }
