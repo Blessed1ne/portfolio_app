@@ -15,7 +15,12 @@ class Contact extends Component {
           <h4 className='card-title'>Contact BRIAN KIBAGENDI</h4>
             <p className='card-text'><strong>Phone: </strong>651-706-5315</p>
             <p className='card-text'><strong>Email: </strong>info@blackgoldsolutions.net</p>
-  
+              <div>
+                <h2>Link to <a href="https://github.com/Blessed1ne">GitHub</a></h2>
+              </div>
+              <div>
+                <h2>Link to <a href="https://www.linkedin.com/in/brian-kibagendi-3165b011b/">Linkedin</a></h2>
+              </div>
           </h2>
         </div>
       </div>
